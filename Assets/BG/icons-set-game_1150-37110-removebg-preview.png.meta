@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 813630ea47c92cb418a951c2129ab68b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: icons-set-game_1150-37110-removebg-preview_0
+  - first:
+      213: 21300002
+    second: icons-set-game_1150-37110-removebg-preview_1
+  - first:
+      213: 21300004
+    second: icons-set-game_1150-37110-removebg-preview_2
+  - first:
+      213: 21300006
+    second: icons-set-game_1150-37110-removebg-preview_3
+  - first:
+      213: 21300008
+    second: icons-set-game_1150-37110-removebg-preview_4
+  - first:
+      213: 21300010
+    second: icons-set-game_1150-37110-removebg-preview_5
+  - first:
+      213: 21300012
+    second: icons-set-game_1150-37110-removebg-preview_6
+  - first:
+      213: 21300014
+    second: icons-set-game_1150-37110-removebg-preview_7
+  - first:
+      213: 21300016
+    second: icons-set-game_1150-37110-removebg-preview_8
+  - first:
+      213: 21300018
+    second: icons-set-game_1150-37110-removebg-preview_9
+  - first:
+      213: 21300020
+    second: icons-set-game_1150-37110-removebg-preview_10
+  - first:
+      213: 21300022
+    second: icons-set-game_1150-37110-removebg-preview_11
+  - first:
+      213: 21300024
+    second: icons-set-game_1150-37110-removebg-preview_12
+  - first:
+      213: 21300026
+    second: icons-set-game_1150-37110-removebg-preview_13
+  - first:
+      213: 21300028
+    second: icons-set-game_1150-37110-removebg-preview_14
+  - first:
+      213: 21300030
+    second: icons-set-game_1150-37110-removebg-preview_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 268
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c9d9ffc2afb4147878959955f9ab4b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 268
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e0460ceba74e349a63ea1b746d21d8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 268
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715ca9419dc6018409d1d7e89a8bb07c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 268
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a0e338b5172134f8379ffd5952e4af
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 187
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0e77baaef964542828944f0998335a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 187
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245e216b651901f439009765435f16ee
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 187
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42ee5a07436d4849a1c0d64a357b8fe
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 187
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07250a00f9675854db0a4462c9fb9d99
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 104
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49009a6432222994d825c3fd1e83efa4
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c530b0edb45fc54d9d79c3eef4d016f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 104
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e711c2c9948f79746801daf48c3dd05f
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 104
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86688e83d0122a43a07ccae1e8d5269
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 23
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58d2eb9d38cb2f46a6cf6e59e4a3c5a
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 23
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26a88e5e3ee83a44b545de1877e982e
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 23
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6860055960c7a479d70b2a0d5e8900
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icons-set-game_1150-37110-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 23
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33c12ef620ebb74d9960e8aec186221
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 44b9c543e4f41b34dbce4bb41284eece
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      icons-set-game_1150-37110-removebg-preview_0: 21300000
+      icons-set-game_1150-37110-removebg-preview_1: 21300002
+      icons-set-game_1150-37110-removebg-preview_10: 21300020
+      icons-set-game_1150-37110-removebg-preview_11: 21300022
+      icons-set-game_1150-37110-removebg-preview_12: 21300024
+      icons-set-game_1150-37110-removebg-preview_13: 21300026
+      icons-set-game_1150-37110-removebg-preview_14: 21300028
+      icons-set-game_1150-37110-removebg-preview_15: 21300030
+      icons-set-game_1150-37110-removebg-preview_2: 21300004
+      icons-set-game_1150-37110-removebg-preview_3: 21300006
+      icons-set-game_1150-37110-removebg-preview_4: 21300008
+      icons-set-game_1150-37110-removebg-preview_5: 21300010
+      icons-set-game_1150-37110-removebg-preview_6: 21300012
+      icons-set-game_1150-37110-removebg-preview_7: 21300014
+      icons-set-game_1150-37110-removebg-preview_8: 21300016
+      icons-set-game_1150-37110-removebg-preview_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
